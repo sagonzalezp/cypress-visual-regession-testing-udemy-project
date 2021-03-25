@@ -4,13 +4,12 @@
   "description": "this project is part of the Udemy's course Automated Software Testing with Cypress",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^6.8.0",
     "prettier": "^2.2.1"
   },
-  "devDependencies": {},
-  "scripts": {
-    "cy:open": "cypress open"
+  "devDependencies": {
+    "cypress": "^6.8.0"
   },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sagonzalezp/cypress-visual-regession-testing-udemy-project.git"
