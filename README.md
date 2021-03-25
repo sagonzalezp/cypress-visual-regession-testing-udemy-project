@@ -5,3 +5,5 @@ the third part of cypress course https://github.com/sagonzalezp/Automated-Softwa
 - Run `npm init`
 - Fill the form
 - Run `npm install cypress`
+- Run `npx cypress open`
+
