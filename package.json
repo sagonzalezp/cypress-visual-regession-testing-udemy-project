@@ -4,10 +4,11 @@
   "description": "this project is part of the Udemy's course Automated Software Testing with Cypress",
   "main": "index.js",
   "dependencies": {
-    "prettier": "^2.2.1"
+    "cypress-image-snapshot": "^4.0.1",
+    "prettier": "^2.3.0"
   },
   "devDependencies": {
-    "cypress": "^6.8.0"
+    "cypress": "^7.3.0"
   },
   "scripts": {},
   "repository": {
